@@ -58,8 +58,7 @@ class InterfazCalculadora():
 
             self.ventana.set(str(self.calculadora.rta))
                 
-       
-            
+                  
       
     def __init__(self):
         self.root=Tk()
